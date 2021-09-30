@@ -8,6 +8,7 @@ namespace MyLinq.Logic.UnitTest
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
